@@ -1,0 +1,33 @@
+
+.Body{
+    position: relative;
+    text-align: center;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+   
+}
+.Body h2{
+    position: absolute;
+    bottom: 25%;
+    left: 46px;
+    right: 30%;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: left;
+}
+.body---img{
+    width: 100%;
+    width: 100%;
+    margin: none;
+    padding: 0%;
+    border: 0px;
+}
+.likeDem{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center
+}

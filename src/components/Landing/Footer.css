@@ -1,0 +1,114 @@
+ 
+.footer1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgb(39, 39, 39);
+    height: 150px;
+}
+.footer2{
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    flex-wrap: wrap;
+   
+    
+     
+}
+.list{
+   
+    padding: 10px 50px;
+}
+.list ul{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    
+    padding: 0;
+    list-style: none;
+    font-size: 11px;
+}
+.list h5{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.men{
+    display: flex;
+    align-items: center;
+   
+}
+.dem{
+    width: 50px !important;
+    background-color: #fafafa;
+    border-left: 1px solid lightgray;
+    color: gray;
+}
+.footer3{
+    background-color: rgb(48, 48, 48);   
+}
+ 
+.join{
+    padding: 10px 10px;
+    
+}
+.join ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+    margin-left: -40px;
+    list-style: none;
+    font-size: 11px;
+    display: flex;
+}
+.join h5{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.join hr{
+    height: 1px;
+    border: 0;
+    background-color: rgb(90, 90, 90);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 45%;
+    width: 10%;
+}
+.pay{
+    padding: 30px 300px;
+    
+}
+.pay hr{
+    height: 1px;
+    border: 0;
+    background-color: rgb(90, 90, 90);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.pay ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+    margin-left: -40px;
+    list-style: none;
+    font-size: 11px;
+    display: flex;
+}
+.pay p,li,h5 {
+    color: #fafafa;
+    
+}
+#license{
+    padding-left: 0px;
+    text-align: center;
+    font-size: 11px;
+}
