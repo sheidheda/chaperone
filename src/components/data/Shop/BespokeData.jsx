@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        clothImg: "../images/shop/shop1.jpg",
+        clothImg: "./images/shop/shop1.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$950.99",
         slash: "$999.99",
@@ -11,7 +11,7 @@ export default [
     },
     {
         id:2,
-        clothImg: "../images/shop/shop5.jpg",
+        clothImg: "./images/shop/shop5.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$450.99",
         slash: "$600.99",
@@ -21,7 +21,7 @@ export default [
     },
     {
         id:3,
-        clothImg: "../images/shop/shop6.jpg",
+        clothImg: "./images/shop/shop6.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$750.99",
         slash: "$800.99",
@@ -31,7 +31,7 @@ export default [
     },
     {
         id:4,
-        clothImg: "../images/shop/shop4.jpg",
+        clothImg: "./images/shop/shop4.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$920.99",
         slash: "$989.99",
@@ -41,7 +41,7 @@ export default [
     },
     {
         id:5,
-        clothImg: "../images/shop/shop7.jpg",
+        clothImg: "./images/shop/shop7.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$450.99",
         slash: "$600.99",
@@ -51,7 +51,7 @@ export default [
     },
     {
         id:6,
-        clothImg: "../images/shop/shop3.jpg",
+        clothImg: "./images/shop/shop3.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$450.99",
         slash: "$600.99",
@@ -61,7 +61,7 @@ export default [
     },
     {
         id:7,
-        clothImg: "../images/shop/shop2.jpg",
+        clothImg: "./images/shop/shop2.jpg",
         clothText: "Mens Casual Winter Jacket Pack Of Two(Orange)",
         price: "$450.99",
         slash: "$600.99",

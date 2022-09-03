@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        image: "../images/imagess/3.jpg",
+        image: "./images/imagess/3.jpg",
         Text: "Shirts that fit you perfectly. Choose a custom dress shirt designed by you.  Buy the best custom dress shirt online.",
         buttonText: "Learn More",
 
@@ -9,7 +9,7 @@ export default [
     },
     {
         id: 2,
-        image: "../images/imagess/4.jpg",
+        image: "./images/imagess/4.jpg",
         Text: "Make a statement with a made to measure Jacket perfect for any occasions, whether it's business or casual we will tailor the perfect Jacket for you.",
         buttonText: "Research",
         
@@ -24,7 +24,7 @@ export default [
     },
     { 
         id: 4,
-        image: "../images/imagess/2.jpg",
+        image: "./images/imagess/2.jpg",
         Text: "Choose from more than 150 fabrics and various details and design your own outfit. We guarantee the perfect fit of your tailor made Chaperone wear.",
         buttonText: "Contact Us",
         

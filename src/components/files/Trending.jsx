@@ -71,7 +71,7 @@ function Trending() {
         {feeds}
       </div>
       <div className="aboutUs">
-        <img src="/images/logo4.png" alt="n" className='needu'/>
+        <img src="./images/logo4.png" alt="n" className='needu'/>
         <h6>About Chaperone Wears</h6>
         <p>Founded in 2020, Chaperone is the e-commerce leader in <strong>custom suits</strong>  and <strong>custom ankara wears</strong> , as we offer our customers complete freedom to design their own clothes by choosing from a wide range of styles and fabrics. <br />
           <strong><Link to="/about">Know more</Link></strong>

@@ -33,7 +33,7 @@ function About() {
         </div>
       </div>
       <div className="achievement">
-        <img src="/images/en-us.webp" alt="c"  
+        <img src="./images/en-us.webp" alt="c"  
        
         />
       </div>
